@@ -37,6 +37,7 @@ curl -X POST http://127.0.0.1:5000/predict_home_price -d 'total_sqft=1000&locati
 4. Choose a location from the dropdown menu.
 5. Click the "Estimate Price" button to get the estimated price.
 6. The estimated price will be displayed below the button.
+![Screenshot of_dashboard](https://github.com/user-attachments/assets/9d2916c1-fb93-4fc5-8d28-195dfa2e7e53)
 
 ## License
 
